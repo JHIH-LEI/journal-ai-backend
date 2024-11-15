@@ -1,0 +1,5 @@
+# 環境配置
+.env
+env/
+# Python編譯文件
+__pycache__/
